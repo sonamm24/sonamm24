@@ -5,3 +5,17 @@ Hello,I am Sonam Malhotra. Recently graduated from the LightHouse Labs Web Devel
 ## Here is a link to my Resume Website 
 
 https://sonamm24.github.io/
+
+## LinkdIn 
+
+https://www.linkedin.com/in/sonamm24/
+
+## Email id
+
+sonam.malhotra2496@gmail.com
+
+## Download My Resume 
+
+x-special/nautilus-clipboard
+copy
+file:///home/sonam/Documents/Selected%20resume/sonam24.github.io.pdf
