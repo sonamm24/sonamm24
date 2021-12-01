@@ -14,3 +14,6 @@ https://www.linkedin.com/in/sonamm24/
 
 sonam.malhotra2496@gmail.com
 
+## PUBLICATIONS
+
+https://medium.com/@sonam.malhotra2496/linked-lists-c0270f62ec8c
