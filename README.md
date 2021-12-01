@@ -6,7 +6,7 @@ Hello, I am Sonam Malhotra. Recently graduated from the LightHouse Labs Web Deve
 
 https://sonamm24.github.io/
 
-## LinkdIn 
+## LinkedIn 
 
 https://www.linkedin.com/in/sonamm24/
 
