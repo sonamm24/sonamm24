@@ -4,9 +4,9 @@ Hello, I am Sonam Malhotra. Recently graduated from the LightHouse Labs Web Deve
 
 ## Here is a link to my Resume Website 
 
+https://sonamm24.github.io/CSS-My-Site/
+
 https://sonamm24.github.io/
-
-
 
 ## LinkedIn 
 
